@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "size": {
-        "value": Math.round(Math.random()*50) ,
+        "value": Math.round(Math.random()*30) ,
         "random": true,
         "anim": {
           "enable": false,
