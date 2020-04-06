@@ -1,11 +1,11 @@
 # Site settings
 title: Hello, Adilson here ;D
-description: Blog do Adilsão da massa
+description: Adilson Vital Junior Personal Blog
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Adilson Vital 
+username: Adilson Vital
 user_description: Oi, sou o adilson vital, sou legal blabla
 user_title: Computer Engineer & Data Scientist
 email: adilson.vital@usp.br
